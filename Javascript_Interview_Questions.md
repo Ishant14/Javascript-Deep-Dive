@@ -164,7 +164,8 @@ The expression will be evaluated to true, since NULL will be treated as any othe
 
 Note: JavaScript is case-sensitive and here we are using NULL instead of null.
 
-**Que7 How do you clone an object? **
+
+**Que7 How do you clone an object?**
 
 ```javascript
 var obj = {a: 1 ,b: 2}
